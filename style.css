@@ -1,0 +1,16 @@
+.body_background  {
+	background-image: url("Boom.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+h1 {
+	color:rgba(0, 0, 255, 0.575);
+	font-size: 40px;
+}
+
+#myCanvas {
+	border-width: 10px;
+	background-color: rgb(148, 144, 144);
+	border-style: ridge;
+}
